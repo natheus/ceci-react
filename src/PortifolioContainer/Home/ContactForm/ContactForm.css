@@ -1,0 +1,25 @@
+.contactform-container {
+    background-image: url("../../../assets/Home/bg-contact02.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 25px;
+}
+
+.btn-info {
+    color: white!important;
+    background-color: #f76b25;
+    border-color: #f76b25;
+}
+
+.btn-info:hover{
+    color: white!important;
+    background-color: #202174;
+    border-color: #202174;
+ }

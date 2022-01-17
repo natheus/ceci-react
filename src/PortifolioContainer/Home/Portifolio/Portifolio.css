@@ -1,0 +1,20 @@
+.portifolio-container {
+  width: 100%;
+  color: black;
+  background-color: var(--white);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 30px;
+  font-family: "Poppins Bold";
+}
+
+.margin {
+  padding-bottom: 30px;
+  padding-top: 25px;
+}
