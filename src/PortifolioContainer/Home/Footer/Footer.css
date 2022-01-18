@@ -5,12 +5,12 @@
     padding-top: 10px;
 }
 
-a {
+.footer {
     color: white!important;
     text-decoration: none;
     font-style: italic;
 }
 
-a:hover {
+.footer:hover {
     color: gray!important;
 }
