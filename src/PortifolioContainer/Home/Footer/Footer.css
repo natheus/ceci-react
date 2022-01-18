@@ -4,3 +4,13 @@
     font-size: 15px;
     padding-top: 10px;
 }
+
+a {
+    color: white!important;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:hover {
+    color: gray!important;
+}
