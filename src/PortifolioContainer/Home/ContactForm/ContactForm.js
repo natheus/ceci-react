@@ -10,10 +10,10 @@ export const ContactForm = () => {
 
     emailjs
       .sendForm(
-        "gmail",
-        "ceci-site",
+        "YOUR_SERVICE_ID",
+        "YOUR_TEMPLATE_ID",
         form.current,
-        "YOUR_USERID"
+        "YOUR_USER_ID"
       )
       .then(
         (result) => {
